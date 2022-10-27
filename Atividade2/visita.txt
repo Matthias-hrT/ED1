@@ -1,0 +1,21 @@
+{ 123; JoÆo Jos‚ da Silva; Rua Maraca; 58 }
+{ 125; Lucas Aparecido Santos; Rua Maraca; 70 }
+{ 129; Tiago Borges; Rua Maraca; 139 }
+{ 135; Vania Lima; Rua Maraca; 178 }
+{ 163; Laura de Souza; Rua Rio de Janeiro; 13 }
+{ 167; Mirian Thest; Rua Rio de Janeiro; 30 }
+{ 169; Jorge Silva; Rua Rio de Janeiro; 100 }
+{ 171; Manoel Richya; Rua Rio de Janeiro; 130 }
+{ 113; Rafael da Silva Mendes; Rua SÆo Paulo; 10 }
+{ 115; Luana Mendes; Rua SÆo Paulo; 15 }
+{ 116; Rafael Sousa; Rua SÆo Paulo; 62 }
+{ 120; Caua Mendes; Rua SÆo Paulo; 100 }
+{ 190; Juraci Diogenes; Rua SÆo Paulo; 109 }
+{ 210; Jaime Mapheys; Rua SÆo Paulo; 129 }
+{ 230; Laercio Marques; Rua SÆo Paulo; 140 }
+{ 218; Ricardo Gomes; Rua SÆo Paulo; 180 }
+{ 215; Maria Lima; Rua SÆo Paulo; 198 }
+{ 265; Virgilio Silva; Rua SÆo Paulo; 218 }
+{ 269; Raquel Lemes; Rua SÆo Paulo; 318 }
+{ 279; Rogerio Lertz; Rua SÆo Paulo; 338 }
+{ 280; Juca Lima; Rua SÆo Paulo; 418 }
