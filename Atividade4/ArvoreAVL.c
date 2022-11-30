@@ -97,7 +97,6 @@ void insereElem(NoAVL **no, Objeto obj)
     {
         printf("Elemento Repetido\n");
         Sleep(1000);
-        printf("Imbecil\n");
         return;
     }
     if (strcmp((*no)->obj.palavra, obj.palavra) == 1)
@@ -155,7 +154,7 @@ void removeElem(NoAVL **no, Objeto obj)
 {
     if ((*no) == NULL)
     {
-        printf("--->>> Chave n∆o encontrada <<<---\n");
+        printf("--->>> Palavra n∆o encontrada <<<---\n");
         return;
     }
     if (strcmp((*no)->obj.palavra, obj.palavra) == 0)
@@ -259,6 +258,7 @@ void menu(NoAVL **no)
             fgets(obj.palavra, 50, stdin);
             obj.palavra[strcspn(obj.palavra, "\n")] = '\0';
             setbuf(stdin, NULL);
+            removeElem(no, obj);
             break;
         default:
             break;
